@@ -1,5 +1,3 @@
-<a href="#h1"> .</a>
-
 # IELTS FORMAT - LISTENING  40 questions (30 minutes)
 - https://www.ielts.org/about-the-test/test-format
 - https://ieltsliz.com/ielts-listening
@@ -12,11 +10,9 @@ Listenning four recording of native English  speakers, the recorings are heard o
 
 ![band-listening-score][ss1]
 
-# IELTS READING
+# READING TEST - 40 questions (60 minutes)
 ![band-reading-score][ss2]
 
 
 [ss1]: asset/IELTS-Listening-Scores.png
 [ss2]: asset/academic-reading-scores.jpg
-
-<h1 #h1>tete</h1>
