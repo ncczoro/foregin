@@ -1,3 +1,9 @@
+1. Hoc ly thuyet grammar (internet + books)
+2. Giai cac bai tap ve ly thuyet do (internet + books)
+3. Viet thanh doan van co ap dung ly thuyet do
+4. Speaking doan van vua viet (save in github repository)
+5. Listenning lai xem minh doc sai cho nao
+
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Grammar for word](#grammar-for-word)
