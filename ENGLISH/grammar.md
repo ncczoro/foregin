@@ -38,10 +38,75 @@
 # Grammar for word
 
 ## Nouns [Common nouns (Danh tu Chung) , Proper nouns (Danh tu rieng), Abstract nound (Danh tu truu tuong), Collective nouns (Danh tu tap the), Countable nouns (Danh tu dem duoc), Uncountable nouns (Danh tu khong dem duoc) ]
-  `
-  nouns
-  `
 
+https://www.voca.vn/blog/danh-tu-trong-tieng-anh-483
+  - Common nouns: ***School, Hotel, Man***
+  - Proper nouns: She is ***Lan***, I live in ***HaNoi***
+  - Abstract nouns: ***Happiness, Health, Spirit***
+  - Danh tu so it sang so nhieu: Hau het la them 's', 
+
+    finger -> fingers
+    house -> houses
+    
+    **A. Những danh từ tận cùng bằng: X, S, SS, SH, CH, O + 'ES'**  
+    a box -> two boxes  
+    a bus -> two buses  
+    a class -> five classes  
+    a bush -> bushes (nhung bui cay)  
+    a watch -> four watches  
+    a tomato -> tomatoes  
+    **B. Ngoai le: Nhung danh muon, khong phai tieng anh goc, co tan cung bang 'o' nhung chi them 's'**  
+    a photo -> two photos  
+    a radio -> radios  
+    a bamboo (cay tre) -> bamboos
+    a kangaroo -> kangaroos
+    a cuckoo (chim cu gay) -> five cuckoos  
+    **C. Nhung tu kiet thuc bang 'y' va sau 1 phu am (ngoai tru cac nguyen am u, e, o, a, i) -> 'i' + 'es'**  
+    a fly -> two flies (2 con ruoi`)  
+    **D. Nhung tu ket thuc bang 'y' va sau 1 nguyen am (u, e, o, a, i) -> them 's'**  
+    a boy -> three boys  
+    **E. Nhung danh tu tan cung bang 'F', 'Fe' -> 'v' + 'es'**  
+    a leaf (1 chiec la) -> two lea**ves**  
+    a knife -> three kni**ves** (3 con dao)  
+    Ngoai tru cac truong hop ngoai le:  
+    roof**s**,  
+    gulf**s** (Vinh.),  
+    Cliff**s** (bo da' doc^'),  
+    Reef**s** (da'),  
+    Proof**s** (bang chung'),  
+    hief**s** (thu linh),  
+    Safe**s** (tu sat),  
+    Dwarf**s** (nguoi lun),  
+    Turf**s** (lop dat mat)  
+    Grief**s** (noi dau kho)  
+    Belief**s** (niem tin)  
+    **F. Nhung danh tu khong theo quy tac tren**  
+    a tooth -> teeth  
+    a foot -> feet  
+    a man -> men  
+    a woman -> women  
+    a person -> people  
+    a mouse -> mice (nhung con chuot)  
+    a goose -> geese (nhung con ngong)  
+    an ox -> oxen (nhung con bo duc.)  
+    a child -> children  
+    a fish -> fish (nhung con ca)  
+    a sheep -> sheep (nhung con cuu)  
+    **G. Cach su dung a/an**  
+    - a/an truoc 1 danh tu so it dem duoc. Dung trong cau co tinh khai quat hoac de cap den mot chu the chua de cap tu truoc.  
+    A dog running on the street 
+    - 'an' : duoc su dung truoc mot danh tu dem duoc, so it va bat dau bang nguyen am (u, e, o, a, i)  
+    an **u**mbrella
+
+    
+
+
+
+
+
+      
+     
+      
 [Move to menu](#table-of-contents)
 
 ## Pronouns (Dai Tu) [Personal pronouns (Dai tu nhan xung), Indefinite pronouns (Dai Tu bac dinh), Possessive pronouns (Dai tu so huu), Reflexive pronouns (Dai tu quan he), Demonstrative pronouns (Dai tu chi dinh), Interrogative pronouns (Dai tu nghi van)]
