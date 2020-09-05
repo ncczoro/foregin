@@ -1,0 +1,1 @@
+It now gives me great pleasure to introduce this year's commencement speaker Steve Job. 
