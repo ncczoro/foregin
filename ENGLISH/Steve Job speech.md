@@ -1,1 +1,3 @@
-It now gives me great pleasure to introduce this year's commencement speaker Steve Job. 
+It now gives me great pleasure, to introduce this year's commencement speaker Steve Jobs, The chief *(chip' f)* executive (it. ze' kye div) officer and co-founder of Apple and Pixar Amination studios.  
+Stanford University has been characterized(dac trung) since its founding by a willingness(su no luc) *to be bold and stike out in new derections*, and this is a characteristic very much shared by today's speaker.  
+A pioneer (nguoi tien phong) and visionary for almost three decades(/da' kay`s/), his name and the companies he has founded have been synonymous(/sin no' ni mous/) with innovation and creativity
