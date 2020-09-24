@@ -1,4 +1,4 @@
-
+# vowel
 
 | | Type of sound | Sound (IPA)      |      Pronunciation | Example |
 |--- | ------        | ----------  |-------------     |------  |      
@@ -12,4 +12,8 @@
 |8|Short vowel|**/ʌ/**| phát âm như âm **â** của tiếng việt, miệng mở rộng 1/2 so với âm **/æ/** |**cut, come, love, mother, but**
 |9|Shor vowel|**/ɒ/**| phát am như âm **o** của tiếng việt|**got, holiday, wash**
 |10|Long vowel|**/ɔː/**|phát âm như **ô, or**  của tiếng việt|**ball, door, daughter**
+|11|Short vowel|**/ə/, Shwa**|là most inportant sound in english, phát âm như **/ơ/** của tiếng việt| **a, of, the, butter, about, admit**
+|12|Long vowel|**/ɜː/**|phát âm như **/ơ r/** trong tiếng việt|**nurse, learn, stir**
+
+# Diphthong
 _ https://www.tienganh123.com/phat-am-tieng-anh-co-ban
