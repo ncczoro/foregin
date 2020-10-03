@@ -28,4 +28,46 @@
 |19|Long vowel|**/eə/**|đọc **/e/** rồi nối thêm **/ə/**, trong tiếng việt ko có âm nào giống, đọc nhanh **e** + **ờ**|**air, care, wear, upstairs, where, their, stare(nhìn chằm chằm), parent, various, vegantarian, fairy(tưởng tượng, hư cầu)**|
 |20|Long vowel|**/ʊə/**|đọc **/ʊ/** rồi nối sang **/ə/**, nghe giống âm **/ua/** của tiếng việt|**tour, poor, truer(chinh xác hơn), bluer, cure(chữa trị), sewer(thợ may)**|
 
+# Consonant
+Voiced consonant là phát âm voiceless rồi nối sang **/ơ/**
+|| Voiceless consonant|Voiced consonant| Example
+|--- | ------        | ----------  |-------------|
+|21|**/p/**|**/b/**|**pen, stop, passport, punish(trừng phạt), policeman, big, buy-pie, bear-pear, bill-pill, bow-pow**|
+|22|**/t/**|**/d/**| **time-dime, tore-door, write-ride, foot-food, heat-head, tie-die**|
+|23|**/k/**|**/g/**|**kill-gill, car-gar, keep-give, pick-big**|
+|24|**/s/**|**/z/**|**six-rose, city-zero, cooks-loves, expensive-counsin**|
+|25|**/ʃ/**|**/ʒ/**|**Ocean-Asia, push-division, special-measure**|
+|26|**/tʃ/**|**/dʒ/**|**cheap-jeep, choke-joke, cheers-jeer**
+|27|**/f/**|**/v/**|**few-view, leaf-leave, ferry, very**
+|28||**/w/**|phát âm /u:/ rồi nhanh chóng thả lỏng miệng **week, quiet, weather**
+|29||**/j/**|phát âm /i:/ rồi nhanh chóng lưỡi xuống hàm dưới **young, yesterday,  yes, usual, student**
+|30|**/h/**||**hand, hill, happy, perhaps, ahead**
+|31|**/θ/**||**thousand, thief(kẻ ăn trộm), everything, mouth**
+|32||**/ð/**|phát âm **/θ/** + ờ **this, father, bathe, breathe**
+|32||**/m/**|**man, time, game, emty**
+|32||**/n/**|**nice, funny, behind, expensive**
+|32||**/l/**|**love, collect, already, cool**
+|32||**/r/**|**read, really, reporter**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 _ https://www.tienganh123.com/phat-am-tieng-anh-co-ban
+
+
+
+  
