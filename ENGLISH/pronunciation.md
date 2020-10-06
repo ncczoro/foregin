@@ -32,42 +32,28 @@
 Voiced consonant là phát âm voiceless rồi nối sang **/ơ/**
 || Voiceless consonant|Voiced consonant| Example
 |--- | ------        | ----------  |-------------|
-|21|**/p/**|**/b/**|**pen, stop, passport, punish(trừng phạt), policeman, big, buy-pie, bear-pear, bill-pill, bow-pow**|
-|22|**/t/**|**/d/**| **time-dime, tore-door, write-ride, foot-food, heat-head, tie-die**|
-|23|**/k/**|**/g/**|**kill-gill, car-gar, keep-give, pick-big**|
-|24|**/s/**|**/z/**|**six-rose, city-zero, cooks-loves, expensive-counsin**|
-|25|**/ʃ/**|**/ʒ/**|**Ocean-Asia, push-division, special-measure**|
-|26|**/tʃ/**|**/dʒ/**|**cheap-jeep, choke-joke, cheers-jeer**
-|27|**/f/**|**/v/**|**few-view, leaf-leave, ferry, very**
-|28||**/w/**|phát âm /u:/ rồi nhanh chóng thả lỏng miệng **week, quiet, weather**
-|29||**/j/**|phát âm /i:/ rồi nhanh chóng lưỡi xuống hàm dưới **young, yesterday,  yes, usual, student**
-|30|**/h/**||**hand, hill, happy, perhaps, ahead**
-|31|**/θ/**||**thousand, thief(kẻ ăn trộm), everything, mouth**
-|32||**/ð/**|phát âm **/θ/** + ờ **this, father, bathe, breathe**
-|32||**/m/**|**man, time, game, emty**
-|32||**/n/**|**nice, funny, behind, expensive**
-|32||**/l/**|**love, collect, already, cool**
-|32||**/r/**|**read, really, reporter**
+|21, 22|**/p/**|**/b/**|**pen, stop, passport, punish(trừng phạt), policeman, big, buy-pie, bear-pear, bill-pill, bow-pow**|
+|23, 24|**/t/**|**/d/**| **time-dime, tore-door, write-ride, foot-food, heat-head, tie-die**|
+|25, 26|**/k/**|**/g/**|**kill-gill, car-gar, keep-give, pick-big**|
+|27, 28|**/s/**|**/z/**|**six-rose, city-zero, cooks-loves, expensive-counsin**|
+|29, 30|**/ʃ/**|**/ʒ/**|**Ocean-Asia, push-division, special-measure**|
+|31, 32|**/tʃ/**|**/dʒ/**|**cheap-jeep, choke-joke, cheers-jeer**
+|33, 34|**/f/**|**/v/**|**few-view, leaf-leave, ferry, very**
+|35||**/w/**|phát âm /u:/ rồi nhanh chóng thả lỏng miệng **week, quiet, weather**
+|36||**/j/**|phát âm /i:/ rồi nhanh chóng lưỡi xuống hàm dưới **young, yesterday,  yes, usual, student**
+|37|**/h/**||**hand, hill, happy, perhaps, ahead**
+|38|**/θ/**||**thousand, thief(kẻ ăn trộm), everything, mouth**
+|39||**/ð/**|phát âm **/θ/** + ờ **this, father, bathe, breathe**
+|40||**/m/**|**man, time, game, emty**
+|41||**/n/**|**nice, funny, behind, expensive**
+|42||**/l/**|**love, collect, already, cool**
+|43||**/r/**|**read, really, reporter**
+
+# Word stress (nhấn âm)
+|Stress|2 rhythm|Example 2|3 rhythm|Example 3
+|----|-----|------|-----|-----|-----|
+|First rhythm| /1> Âm tiết thứ 2 là **nguyên âm ngắn (short vowel)** và kết thúc với <= 1 phụ âm|/1>**answer, chapter, question,  during, ticket, music, visit, practise**
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-_ https://www.tienganh123.com/phat-am-tieng-anh-co-ban
-
-
-
-  
+_ https://www.tienganh123.com/phat-am-tieng-anh-co-ban 
