@@ -52,7 +52,7 @@ Voiced consonant là phát âm voiceless rồi nối sang **/ơ/**
 # Word stress (nhấn âm)
 |Stress|2 rhythm|Example 2|3 rhythm|Example 3
 |----|-----|------|-----|-----|-----|
-|First rhythm| [1] Âm 2 gồm một **nguyên âm ngắn (short vowel)** và kết thúc với <= 1 phụ âm|[1] **answer, chapter, question,  during, ticket, music, visit, practise**|[2]Danh từ Âm cuối và âm 2 chứa nguyên âm ngắn và (hoặc) âm 2 kết thúc <= 1 phụ âm|**[2] acgency, library, company, family, residen(người dân), restaurant, pregnancy, industry, conference**
+First rhythm| [1] Âm 2 gồm một **nguyên âm ngắn (short vowel)** và kết thúc với <= 1 phụ âm|[1] **answer, chapter, question,  during, ticket, music, visit, practise**|[2]Danh từ Âm cuối và âm 2 chứa nguyên âm ngắn và (hoặc) âm 2 kết thúc <= 1 phụ âm|**[2] acgency, library, company, family, residen(người dân), restaurant, pregnancy, industry, conference**
 ||||[3] Danh từ Âm cuối chứa 1 nguyên âm dài or 1 nguyên âm đôi or > 1 phụ âm|**attiude, paradise(thiên đường), architect, consonant, excercise, extrovert(người hướng ngoại), holiday, interview, radio, photograph**
 |Second rhythm|[1] Âm 2 gồm 1 nguyên âm dài or 1 nguyên âm đôi or kết thúc >= 2 phụ âm|**account, adapt, address, before, beside, believe, decide, detect, relax, rely, release, result**|[2] Động từ chứa nguyên âm ngắn + kết thúc <= 1 phụ âm|**consider, deliver, develop, discover, envouter, examine, establish, inhabit(sống), remember**
 ||||[3] Danh từ âm cuối chứa 1 nguyên âm ngắn + âm 2 chứa nguyên âm dài/nguyên âm đôi kết thúc >= 1 phụ âm|**advantage, agenda, computer, disaster(thảm họa), museum, banana, potato, papyrus(cây cói)**
