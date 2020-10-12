@@ -52,8 +52,29 @@ Voiced consonant là phát âm voiceless rồi nối sang **/ơ/**
 # Word stress (nhấn âm)
 |Stress|2 rhythm|Example 2|3 rhythm|Example 3
 |----|-----|------|-----|-----|
-First rhythm| [1] Âm 2 gồm một **nguyên âm ngắn (short vowel)** và kết thúc với <= 1 phụ âm|[1] **answer, chapter, question,  during, ticket, music, visit, practise**|[2]Danh từ Âm cuối và âm 2 chứa nguyên âm ngắn và (hoặc) âm 2 kết thúc <= 1 phụ âm|**[2] acgency, library, company, family, residen(người dân), restaurant, pregnancy, industry, conference**
-||||[3] Danh từ Âm cuối chứa 1 nguyên âm dài or 1 nguyên âm đôi or > 1 phụ âm|**attiude, paradise(thiên đường), architect, consonant, excercise, extrovert(người hướng ngoại), holiday, interview, radio, photograph**
-|Second rhythm|[1] Âm 2 gồm 1 nguyên âm dài or 1 nguyên âm đôi or kết thúc >= 2 phụ âm|**account, adapt, address, before, beside, believe, decide, detect, relax, rely, release, result**|[2] Động từ chứa nguyên âm ngắn + kết thúc <= 1 phụ âm|**consider, deliver, develop, discover, envouter, examine, establish, inhabit(sống), remember**
-||||[3] Danh từ âm cuối chứa 1 nguyên âm ngắn + âm 2 chứa nguyên âm dài/nguyên âm đôi kết thúc >= 1 phụ âm|**advantage, agenda, computer, disaster(thảm họa), museum, banana, potato, papyrus(cây cói)**
-_ https://www.tienganh123.com/phat-am-tieng-anh-co-ban 
+First rhythm|Âm 2 gồm một **nguyên âm ngắn (short vowel)** và kết thúc với <= 1 phụ âm|**answer, chapter, question,  during, ticket, music, visit, practise**|Danh từ Âm cuối và âm 2 chứa nguyên âm ngắn và (hoặc) âm 2 kết thúc <= 1 phụ âm|acgency, library, company, family, residen(người dân), restaurant, pregnancy, industry, conference
+||||Danh từ Âm cuối chứa 1 nguyên âm dài or 1 nguyên âm đôi or > 1 phụ âm|**attiude, paradise(thiên đường), architect, consonant, excercise, extrovert(người hướng ngoại), holiday, interview, radio, photograph**
+|Second rhythm|Âm 2 gồm 1 nguyên âm dài or 1 nguyên âm đôi or kết thúc >= 2 phụ âm|**account, adapt, address, before, beside, believe, decide, detect, relax, rely, release, result**| Động từ chứa nguyên âm ngắn + kết thúc <= 1 phụ âm|**consider, deliver, develop, discover, envouter, examine, establish, inhabit(sống), remember**
+||||Danh từ âm cuối chứa 1 nguyên âm ngắn + âm 2 chứa nguyên âm dài/nguyên âm đôi kết thúc >= 1 phụ âm|**advantage, agenda, computer, disaster(thảm họa), museum, banana, potato, papyrus(cây cói)**
+|||||
+
+> Các hậu tố -ee, -eer, -ese, -nique: khi các từ gốc kết hợp với các hậu tố này, trọng âm rơi vào chính xác hậu tố đó (**Chinese, Vietnamese, refugee(người tị nạn), engineer, unique, technique**)
+
+> -ous, -ial, -al, -ic, -ion, -ity: Khi các từ gốc kết hợp với các hậu tố này, trọng âm rơi vào âm liền trước hậu tố đó (**accidenal, memorial, finacial, advantageous, ambitious, dramatic, climatic, energetic, explosion, occasion, conclusion, ability, necessity**)
+
+> Các danh từ ghép tạo thành bởi 1 động từ và 1 giới từ thì trọng âm rơi vào phần thứ nhất (**make-up, break-up, set-up, comeback, feedback, hang-over(cái còn sót lại), holdback, breakdown, check-in**)
+
+> Danh từ tạo thành bởi 1 động từ dang V-ing và 1 danh từ thì trọng âm sẽ rơi vào âm đầu (**washing machine, swimming pool, running shoes, waiting room, parking lot, reading lamp, dining room, writing paper, sewing machine (máy may)**)
+
+> Các danh từ ghép được tạo thành từ 2 danh từ thì trọng âm thường sẽ nhấn vào âm đầu (**airport, bathroom, football, classroom, newspaper, hairdresser, girlfriend,sunglassess(kính râm)**)
+
+> Tính từ ghép bởi 1 danh từ đứng trước 1 tính từ thì trọng âm nhấn vào danh từ (**carsick(say xe), seasick(say sóng), color blind, water proof, duty-free(miễn thuế), ear-splitting(chói tai), world-wide(khắp thế giới), lifelong(suốt đời), noteworthy(đáng chú ý), trouble-free (không hỏng hóng)**)
+<hr>
+
+> Danh từ ghép trọng âm rơi vào cả 2 phần nếu phần thứ nhất miêu tả chất liệu hoặc vị trí, hoặc nơi chốn của phần thứ hai (**glass jar (bình thủy tinh), plastic bag, tomato soup, apple pie, wooden doll (búp bê gỗ), orange juice || car door, city center, ground floor, bedside table, trouser pocket(túi quần), left hand**)
+
+> Động từ ghép hay cụm động từ có cấu trúc gồm 1 động từ và 1 tiểu từ (phó từ, giới từ) thì trọng âm rơi vào âm thứ 2 (tiểu từ) (**let down, shut down, print out, turn off, take over(tiếp quản, kế tục),break down, fall away, take off, give up, move on**)
+
+> Các tính từ ghép trọng âm thường rơi vào âm 2 (**wordly-wise(từng trải), well-known(nổi tiếng), broken-hearted, broad-minded(có tư tưởng rộng rã, thoáng đạt), old-fashioned, cold-blooded, dark-green, easy-going(dễ gần), self-confident, good-looking**)
+
+> https://www.tienganh123.com/phat-am-tieng-anh-co-ban 
