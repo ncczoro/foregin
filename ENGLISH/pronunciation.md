@@ -49,6 +49,26 @@ Voiced consonant là phát âm voiceless rồi nối sang **/ơ/**
 |42||**/l/**|**love, collect, already, cool**
 |43||**/r/**|**read, really, reporter**
 
+# Pronouncing s/es endings
+> Phát âm /s/ khi từ tận cùng là âm vô thanh(p, t, k, f, h, θ)
+> Examples: develops, meets, books, laughs, months
+
+> Phát âm /z/ khi từ tận cùng là âm hữu thanh(m, n, g, v, l, r, b, d, w, j, ð, ŋ) và các nguyên âm (e, u, o, a, i)
+> Examples: birds, buildings, flowers, rooms, windows
+
+> Phát âm là /iz/ khi từ tận cùng bằng (s, ʃ, tʃ, z, ʒ, dʒ)
+> Example: kisses, watches, changes, dishes, boxes, dances, roughes (đánh phấn hồng)
+
+# Pronoucing ed endings
+> Phát âm /ɪd/ khi từ tận cùng t, d (wanted, needed, lifted, landed)
+
+> phát âm /t/ khi từ tận cùng bằng phụ âm vô thanh (p, k, f, h, s, ʃ, tʃ)
+> Examples: stopped, looked, laughed, washed, sentenced
+
+> Phát âm /d/ khi từ tận cùng bằng âm hưu thanh (b, g, m, n, z, l, r, v, dʒ, ʒ, ð, ŋ)
+> Examples: loved, hugged, robbed, closed, changed, breathed, mentioned, entered, cried
+
+
 # Word stress (nhấn âm)
 |Stress|2 rhythm|Example 2|3 rhythm|Example 3
 |----|-----|------|-----|-----|
@@ -58,9 +78,9 @@ First rhythm|Âm 2 gồm một **nguyên âm ngắn (short vowel)** và kết th
 ||||Danh từ âm cuối chứa 1 nguyên âm ngắn + âm 2 chứa nguyên âm dài/nguyên âm đôi kết thúc >= 1 phụ âm|**advantage, agenda, computer, disaster(thảm họa), museum, banana, potato, papyrus(cây cói)**
 |||||
 
-> Các hậu tố -ee, -eer, -ese, -nique: khi các từ gốc kết hợp với các hậu tố này, trọng âm rơi vào chính xác hậu tố đó (**Chinese, Vietnamese, refugee(người tị nạn), engineer, unique, technique**)
+> Các hậu tố **-ee, -eer, -ese, -nique**: khi các từ gốc kết hợp với các hậu tố này, trọng âm rơi vào chính xác hậu tố đó (**Chinese, Vietnamese, refugee(người tị nạn), engineer, unique, technique**)
 
-> -ous, -ial, -al, -ic, -ion, -ity: Khi các từ gốc kết hợp với các hậu tố này, trọng âm rơi vào âm liền trước hậu tố đó (**accidenal, memorial, finacial, advantageous, ambitious, dramatic, climatic, energetic, explosion, occasion, conclusion, ability, necessity**)
+> Các hậu tố **-ous, -ial, -al, -ic, -ion, -ity**: Khi các từ gốc kết hợp với các hậu tố này, trọng âm rơi vào âm liền trước hậu tố đó (**accidenal, memorial, finacial, advantageous, ambitious, dramatic, climatic, energetic, explosion, occasion, conclusion, ability, necessity**)
 
 > Các danh từ ghép tạo thành bởi 1 động từ và 1 giới từ thì trọng âm rơi vào phần thứ nhất (**make-up, break-up, set-up, comeback, feedback, hang-over(cái còn sót lại), holdback, breakdown, check-in**)
 
@@ -71,10 +91,12 @@ First rhythm|Âm 2 gồm một **nguyên âm ngắn (short vowel)** và kết th
 > Tính từ ghép bởi 1 danh từ đứng trước 1 tính từ thì trọng âm nhấn vào danh từ (**carsick(say xe), seasick(say sóng), color blind, water proof, duty-free(miễn thuế), ear-splitting(chói tai), world-wide(khắp thế giới), lifelong(suốt đời), noteworthy(đáng chú ý), trouble-free (không hỏng hóng)**)
 <hr>
 
-> Danh từ ghép trọng âm rơi vào cả 2 phần nếu phần thứ nhất miêu tả chất liệu hoặc vị trí, hoặc nơi chốn của phần thứ hai (**glass jar (bình thủy tinh), plastic bag, tomato soup, apple pie, wooden doll (búp bê gỗ), orange juice || car door, city center, ground floor, bedside table, trouser pocket(túi quần), left hand**)
+> Danh từ ghép trọng âm rơi vào cả 2 phần nếu phần thứ nhất miêu tả chất liệu hoặc vị trí, hoặc nơi chốn của phần thứ hai (**glass jar (bình thủy tinh), plastic bag, tomato soup, apple pie, wooden doll (búp bê gỗ), orange juice, car door, city center, ground floor, bedside table, trouser pocket(túi quần), left hand**)
 
 > Động từ ghép hay cụm động từ có cấu trúc gồm 1 động từ và 1 tiểu từ (phó từ, giới từ) thì trọng âm rơi vào âm thứ 2 (tiểu từ) (**let down, shut down, print out, turn off, take over(tiếp quản, kế tục),break down, fall away, take off, give up, move on**)
 
 > Các tính từ ghép trọng âm thường rơi vào âm 2 (**wordly-wise(từng trải), well-known(nổi tiếng), broken-hearted, broad-minded(có tư tưởng rộng rã, thoáng đạt), old-fashioned, cold-blooded, dark-green, easy-going(dễ gần), self-confident, good-looking**)
+
+)
 
 > https://www.tienganh123.com/phat-am-tieng-anh-co-ban 
